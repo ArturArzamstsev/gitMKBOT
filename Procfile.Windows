@@ -1,0 +1,15 @@
+certifi==2018.8.24
+chardet==3.0.4
+dnspython==1.15.0
+enum34==1.1.6
+eventlet==0.24.1
+greenlet==0.4.15
+idna==2.7
+monotonic==1.5
+pyTelegramBotAPI==3.6.6
+requests==2.19.1
+six==1.11.0
+urllib3==1.23
+virtualenv==16.0.0
+vk-api==11.2.1
+MKbot
