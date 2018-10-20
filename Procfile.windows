@@ -1,4 +1,4 @@
-Web: python MKbot.py
+bot: python3 MKbot.py
 certifi==2018.8.24
 chardet==3.0.4
 dnspython==1.15.0
@@ -13,4 +13,4 @@ six==1.11.0
 urllib3==1.23
 virtualenv==16.0.0
 vk-api==11.2.1
-MKbot
+
